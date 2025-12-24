@@ -34,3 +34,6 @@ No FFT functions are used.
 Install dependencies:
 ```bash
 pip install numpy matplotlib
+
+<img width="1530" height="524" alt="image" src="https://github.com/user-attachments/assets/19046e2c-717e-4832-967d-0576592b69d3" />
+
