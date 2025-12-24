@@ -31,9 +31,9 @@ No FFT functions are used.
 - NumPy
 - Matplotlib
 
+<img width="1530" height="524" alt="image" src="https://github.com/user-attachments/assets/ede0b0fd-2582-4f2c-971d-2fa63f118b77" />
+
 Install dependencies:
 ```bash
 pip install numpy matplotlib
-
-<img width="1530" height="524" alt="image" src="https://github.com/user-attachments/assets/19046e2c-717e-4832-967d-0576592b69d3" />
 
